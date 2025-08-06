@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="connect.westc.gpuhub.com" id="4ce3dcd1-b6bb-4065-9639-f276f8559ec5" port="34448" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="connect.westc.gpuhub.com" id="a8d90f4b-7724-4079-b00e-fadd1adae884" port="11043" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="connect.bjc1.seetacloud.com" id="abd6e303-6d28-468d-9a3c-8373a67d36be" port="51159" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
